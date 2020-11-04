@@ -1,0 +1,15 @@
+body{
+    background-color: blanchedalmond;
+}
+.container, #szinezett1{
+    border:1px solid grey;
+    height: 200px;
+}
+#szinezett2{
+    border:1px solid grey;
+    height: 200px;
+}
+.container2{
+    border: 1px solid grey;
+    height: 200px;
+}
